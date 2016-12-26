@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2hgpXYJ' target='_blank'><img src='http://https://lh3.googleusercontent.com/Gb3Trj43xcVCVP3hlZaPFJc5UQ2HEYo07OuXVswsRiictNlCFNVBvCNwgfMux0ORecIbZT7pGuWg4By_9MFwWYCmgV8bPD3z=w1366-h768-rw-no' width='500px'/><br/>Giải Pháp Vận Chuyển Tối Ưu</a>.Thân Thiện-Nhanh Chóng-Hiệu Quả. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2hgpXYJ' target='_blank'><img src='https://lh3.googleusercontent.com/Gb3Trj43xcVCVP3hlZaPFJc5UQ2HEYo07OuXVswsRiictNlCFNVBvCNwgfMux0ORecIbZT7pGuWg4By_9MFwWYCmgV8bPD3z=w1366-h768-rw-no' width='500px'/><br/>Giải Pháp Vận Chuyển Tối Ưu</a>.Thân Thiện-Nhanh Chóng-Hiệu Quả. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
